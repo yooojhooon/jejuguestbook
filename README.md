@@ -3,5 +3,5 @@
 
 ### 공부할 내용
 
-1. 기본 웹페이지 코드 이해 (html,css,javascript) 
-2. google maps api 사용법 
+1. HMTL, CSS, JavaScript 기본 구조
+2. google maps api 사용법
